@@ -2,7 +2,7 @@
 
 Projeto de clonagem de website com a ferramenta SEtoolkit utilizando o sistema operacional Kali Linux
 
-Site utilizado para clonagem foi o github.com
+Site utilizado para clonagem foi o GitHub
 
 Comandos utilizados no terminal do Kali, em ordem cronológica: 
 
