@@ -11,16 +11,16 @@ Comandos utilizados no terminal do Kali, em ordem cronológica:
 # setoolkit (Ferramenta SEtoolkit)
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/8838be89-87cd-4e3d-87a1-53dfce07e1e5)
 
-# Social-Engineering Attacks
+# 1) Social-Engineering Attacks
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/102f51c8-5d56-4a65-a611-5c9b97b071c4)
 
-# Website Attacks Vectors
+# 2) Website Attacks Vectors
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/d932374a-d5f6-42e5-8646-c258adae8e5f)
 
-# Credential Harvester Attack Method
+# 3) Credential Harvester Attack Method
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/6329504a-5f85-4ca6-ae75-11c06eb137a3)
 
-# Site Cloner
+# 2) Site Cloner
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/55b8cdaa-874f-48ff-81b6-31c2b3bce96d)
 
 # Pressionar ENTER (Utilizando o IP padrão que veio como sugestão no terminal, pois estou utilizando a rede bridge do vitualbox)
