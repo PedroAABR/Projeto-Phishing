@@ -29,3 +29,15 @@ Pressionar ENTER (Utilizando o IP padrão que veio como sugestão no terminal, p
 
 Coloquei a URL do github (Pode utilizar qualquer url de login para a clonagem)
 ![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/50e8fe31-0874-4a9e-9f2d-284a3ff6aaa4)
+![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/ecc13ab4-c5f2-4ec8-bb47-93d4ce5e2dee)
+
+Inserir o IP utilizado para a clonagem do site escolhido no seu navegador
+![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/d686693b-2bf5-4b9d-9453-989cb11973b8)
+
+Login exemplo
+![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/c788cbc1-6336-4d3a-82b5-cee1f07b29dc)
+
+Resposta do terminal com as informações do login exemplo
+![image](https://github.com/PedroAABR/Projeto-Phishing/assets/101150972/c95f3a2d-b9c2-4e44-9944-7df59787de7b)
+
+
